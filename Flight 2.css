@@ -1,0 +1,89 @@
+body{
+    background-image: url(Flight.png);
+    background-size: cover;
+}
+.form{
+    background-color: #000;
+    height: 500px;
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    opacity: 0.7;
+    text-align: center;
+}
+.form h3{
+    border-bottom: 2px solid blue;
+    width: 210px;
+    padding: 5px;
+}
+::placeholder{
+    color: white;
+}
+.input #input-group{
+    width: 300px;
+    margin: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    background: transparent;
+    color: whitesmoke;
+}
+.input2 #input-group{
+    width: 195px;
+    margin: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    background: transparent;
+    color: whitesmoke;
+}
+.input3 #input-group{
+    margin-left: 50px;
+}
+.input4 #input-group{
+    width: 300px;
+    margin: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    background: transparent;
+    color: whitesmoke;
+}
+.input4 #input-group1{
+    width: 622px;
+    margin: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    background: transparent;
+    color: whitesmoke;
+}
+.input5 h2{
+    border-bottom: 2px solid brown;
+    width: 300px;
+    padding: 5px;
+}
+.input6 #input-group{
+    width: 300px;
+    margin: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    background: transparent;
+    color: whitesmoke;
+}
+.input6 #input-group1{
+    width: 622px;
+    margin: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    background: transparent;
+    color: whitesmoke;
+}
